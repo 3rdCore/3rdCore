@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tom.marty@mila.quebec)
 
 
-## I'm a Researcher, Developer, and Student !
+## I'm a researcher, developer, and student !
 
 - 🔭 Check out my latest publications on [my Google scholar](https://scholar.google.com/citations?user=-YXor_wAAAAJ&hl)
 
