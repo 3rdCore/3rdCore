@@ -7,7 +7,7 @@
 
 ## I'm a researcher, developer, and student !
 
-- 🔭 Check out my latest publications on [my Google scholar](https://scholar.google.com/citations?user=-YXor_wAAAAJ&hl)
+🔭 Check out my latest publications on [my Google scholar](https://scholar.google.com/citations?user=-YXor_wAAAAJ&hl)
 
 ### Connect with me:
 
