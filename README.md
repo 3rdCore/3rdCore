@@ -9,19 +9,6 @@
 
 - 🔭 Check out my latest publications on [my Google scholar](https://scholar.google.com/citations?user=-YXor_wAAAAJ&hl)
 
-### Featured Projects 🚀
-- [In-Context Learning and Occam's razor](https://github.com/3rdcore/PrequentialCode): We propose an explanation for the strong generalization abilities of in-context learners at inference time, by drawing connections between meta-learning, In-Context Learning and Information theory. 
-  ![GitHub Repo stars](https://img.shields.io/github/stars/3rdcore/PrequentialCode?style=social)  
-
-- [BrowserGym](https://github.com/ServiceNow/BrowserGym): BrowserGym is a fully deployed Open-Source Gym environment for Web-Automation. It serves to evaluate Web Agents at solving a wide range of tasks on the web.
-  ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)  
-  ![GitHub forks](https://img.shields.io/github/forks/ServiceNow/BrowserGym?style=social)  
-
-- [Project Name](https://github.com/corail-research/SeaPearl.jl): Short description of the project.  
-  ![GitHub Repo stars](https://img.shields.io/github/stars/corail-research/SeaPearl.jl?style=social)  
-  ![GitHub forks](https://img.shields.io/github/forks/corail-research/SeaPearl.jl?style=social)  
-
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://3rdcore.github.io#gh-light-mode-only)
@@ -48,9 +35,21 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com#gh-light-mode-only)
+<br />
+<br />
 
-<br />
-<br />
+### Featured Projects 🚀
+- [In-Context Learning and Occam's razor](https://github.com/3rdcore/PrequentialCode): We propose an explanation for the strong generalization abilities of in-context learners at inference time, by drawing connections between meta-learning, In-Context Learning and Information theory. <br />
+  ![GitHub Repo stars](https://img.shields.io/github/stars/3rdcore/PrequentialCode?style=social)
+    
+- [BrowserGym](https://github.com/ServiceNow/BrowserGym): BrowserGym is a fully deployed Open-Source Gym environment for Web-Automation. It serves to evaluate Web Agents at solving a wide range of tasks on the web.<br />
+  ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)  
+  ![GitHub forks](https://img.shields.io/github/forks/ServiceNow/BrowserGym?style=social)  
+
+- [SeaPearl](https://github.com/corail-research/SeaPearl.jl): SeaPearl is an intelligent constraint programming solver that can learn to solve a wide variety of Constraint Optimization Problems using Reinforcement Learning on Graphs.  <br />
+  ![GitHub Repo stars](https://img.shields.io/github/stars/corail-research/SeaPearl.jl?style=social)  
+  ![GitHub forks](https://img.shields.io/github/forks/corail-research/SeaPearl.jl?style=social)  
+
 
 ## GitHub Stats 📊
 ![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3rdcore&show_icons=true&theme=radical)  
