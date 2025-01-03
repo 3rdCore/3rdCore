@@ -41,7 +41,10 @@
 ### Featured Projects 🚀
 - [In-Context Learning and Occam's razor](https://github.com/3rdcore/PrequentialCode): We propose an explanation for the strong generalization abilities of in-context learners at inference time, by drawing connections between meta-learning, In-Context Learning and Information theory. <br />
   ![GitHub Repo stars](https://img.shields.io/github/stars/3rdcore/PrequentialCode?style=social)
-    
+
+- [A template for Research Project](https://github.com/3rdCore/Research_Project_Template): Tired of reimplementing skeleton  for testing your ideas ? In this skeleton template you will find all you need (torch lightnning codebase, hydra configs, WandB integration, units-tests, notebook for plots...)  all preimplemented to save you hours of your precious time. <br />
+  ![GitHub Repo stars](https://img.shields.io/github/stars/3rdcore/Research_Project_Template?style=social)
+
 - [BrowserGym](https://github.com/ServiceNow/BrowserGym): BrowserGym is a fully deployed Open-Source Gym environment for Web-Automation. It serves to evaluate Web Agents at solving a wide range of tasks on the web.<br />
   ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)  
   ![GitHub forks](https://img.shields.io/github/forks/ServiceNow/BrowserGym?style=social)  
