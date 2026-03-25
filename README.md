@@ -40,7 +40,7 @@
 
 ### Featured Projects 
 
-- [A Compression Perspective on Simplicity Bias]([https://github.com/3rdCore/complicity](https://github.com/3rdCore/complicity)): We study whether optimal compression (via the Minimum Description Length principle) serves as a predictive theory of neural-network behaviour under different data-regime. <br />
+- [A Compression Perspective on Simplicity Bias](https://github.com/3rdCore/complicity)): We study whether optimal compression (via the Minimum Description Length principle) serves as a predictive theory of neural-network behaviour under different data-regime. <br />
 
 - [In-Context Learning and Occam's razor](https://github.com/3rdcore/PrequentialCode): We propose an explanation for the strong generalization abilities of in-context learners at inference time, by drawing connections between meta-learning, In-Context Learning and Information theory. <br />
   ![GitHub Repo stars](https://img.shields.io/github/stars/3rdcore/PrequentialCode?style=social)
